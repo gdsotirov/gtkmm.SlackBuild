@@ -1,0 +1,11 @@
+gtkmm: GTKMM (A C++ interface for GTK+ library)
+gtkmm:
+gtkmm: This package includes C++ language bindings for GTK+ (GDK+, ATK+,
+gtkmm: Pango).
+gtkmm:
+gtkmm:
+gtkmm:
+gtkmm:
+gtkmm:
+gtkmm: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+gtkmm:
